@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Notortalamahesap {
     public static void main(String[] args) {
         // Değişkenleri oluştur
         int matematik, fizik, kimya, turkce, tarih, muzik;
